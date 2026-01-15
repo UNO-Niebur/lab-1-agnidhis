@@ -32,9 +32,7 @@
 
 Now that we have the files in GitHub, we will start to work with the Python file.
 
-## FirstProgram.py - SKIP SPRING 2026
-**We will skip this assignment this semester since we have a short week to begin the semester.**
-
+## FirstProgram.py
 The instructions for the program is in code. In python, a pound sign (#) is used to denote a comment. This is code that will not execute and is only there for the benefit of the programmer.
 
 Please label all of your work. There is an area at the top of the code for the file name, your name, the purpose of the file, and the last revision date. Please update all of this info.
