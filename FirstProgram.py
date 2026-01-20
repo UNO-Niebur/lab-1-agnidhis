@@ -1,22 +1,19 @@
 #FirstProgram.py
-#Name:
-#Date:
-#Assignment:
+#Name: Nidhi Agarwal
+#Date: 01/21/2025
+#Assignment: 1
 
 def main():
   print("First Program")
-  #Say hello
   
-  #Ask for the user's name
+  print ("Hello")
+  name = input ("What is your name?")
+  print(f"Nice to meet you, {name}!")
+  age = int(input("How old are you? "))
+  current_year = 2026
+  print(f"Current Year, {current_year}!")
+  birth_year = current_year - age
+  print(f"You were born in {birth_year}.")
 
-  #Use the user's name in the program.
-
-  #Ask the user for their age.
-
-  #Tell the user what year they were born in.
-  #Assume that they have not had their birthday yet this year.
-
-
-#Call the main function if this is the file being run.
 if __name__ == '__main__':
-    main()
+    main()   
